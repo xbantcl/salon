@@ -1,0 +1,77 @@
+.loading-bg {
+	background-color: #9269c4
+}
+
+.avatar_mask:hover {
+	background: rgba(169,127,220,.75)
+}
+
+.imgs {
+	background-image: url(http://mt-card.qiniudn.com/card_theme_30_p.png)
+}
+
+#info-menu img {
+	background-color: rgba(218,167,47,.75)
+}
+
+.oni-dialog-layout {
+	background: rgba(146,105,196,.9)
+}
+
+.home-nav-item {
+	color: #fff
+}
+
+.card-head .lover-avatar {
+	border-color: #9269c4;
+	background-color: #fff
+}
+
+.blessing-item img,.su-msg img {
+	border-color: #9269c4
+}
+
+.theme-color {
+	color: #9269c4
+}
+
+.about-color,.blessing-color,.story-color {
+	color: #222
+}
+
+.music-btn {
+	background: #fff;
+	color: #9269c4
+}
+
+.power-color,.su-bless-color {
+	color: #222
+}
+
+.theme-bg {
+	background-color: #9269c4
+}
+
+.home-nav {
+	background: #9269c4
+}
+
+.about-content,.blessing-content,.story-content,.video-content {
+	background: #fff
+}
+
+.about-footer,.blessing-footer,.story-footer,.video-footer {
+	display: none
+}
+
+.about-head {
+	background-color: #fff
+}
+
+.vjs-default-skin .vjs-play-progress,.vjs-default-skin .vjs-volume-level {
+	background-color: #5a495b
+}
+
+.vjs-default-skin .vjs-big-play-button {
+	background: rgba(93,73,91,.7)
+}

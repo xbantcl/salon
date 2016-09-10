@@ -7,6 +7,7 @@ class LoginController extends Controller
 {
     public function index()
     {
+        echo phpinfo();exit;
         $this->display();
     }
 
