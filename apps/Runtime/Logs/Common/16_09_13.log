@@ -1,0 +1,70 @@
+[ 2016-09-13T20:44:10+08:00 ] 182.150.24.133 /img/a1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2016-09-13T20:44:10+08:00 ] 182.150.24.133 /img/a6.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2016-09-13T20:44:10+08:00 ] 182.150.24.133 /img/a2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+
+[ 2016-09-13T20:44:10+08:00 ] 182.150.24.133 /img/a3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-09-13T20:44:10+08:00 ] 182.150.24.133 /img/w2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2016-09-13T20:44:10+08:00 ] 182.150.24.133 /img/c2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2016-09-13T20:44:10+08:00 ] 182.150.24.133 /img/footdon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000035s ]
+
+[ 2016-09-13T20:44:32+08:00 ] 182.150.24.133 /img/a1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2016-09-13T20:44:32+08:00 ] 182.150.24.133 /img/a6.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+
+[ 2016-09-13T20:44:32+08:00 ] 182.150.24.133 /img/a2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-09-13T20:44:32+08:00 ] 182.150.24.133 /img/a3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+
+[ 2016-09-13T20:44:32+08:00 ] 182.150.24.133 /img/w2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2016-09-13T20:44:32+08:00 ] 182.150.24.133 /img/c2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+
+[ 2016-09-13T20:44:32+08:00 ] 182.150.24.133 /img/footdon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+

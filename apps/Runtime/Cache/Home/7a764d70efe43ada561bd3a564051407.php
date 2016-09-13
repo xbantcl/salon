@@ -6,13 +6,13 @@
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <link rel="stylesheet" href="/Public/assets/css/amazeui.min.css">
-    <link rel="stylesheet" href="/Public/love-life/css/wap.css?2">
+    <link rel="stylesheet" href="Public/love-life/css/wap.css?2">
     <title>首页</title>
 </head>
 <body>
 <div data-am-widget="gotop" class="am-gotop am-gotop-fixed">
     <a href="#top" title="">
-        <img class="am-gotop-icon-custom" src="img/goTop.png" />
+        <img class="am-gotop-icon-custom" src="Public/love-life/img/goTop.png" />
     </a>
 </div>
 
@@ -20,7 +20,7 @@
   <div data-am-widget="slider" class="am-slider am-slider-a1" data-am-slider='{"directionNav":false}' >
   <ul class="am-slides">
       <li>
-            <img src="img/fl01.png">
+            <img src="Public/love-life/img/fl01.png">
             <div class="pet_slider_font">
                 <span class="pet_slider_emoji"> (╭￣3￣)╭♡   </span>
                 <span>“大白”有望成为现实：充气机器人研究取得进展</span>
@@ -28,7 +28,7 @@
             <div class="pet_slider_shadow"></div>
       </li>
       <li>
-            <img src="img/fl02.png">
+            <img src="Public/love-life/img/fl02.png">
             <div class="pet_slider_font">
                 <span class="pet_slider_emoji"> []~(￣▽￣)~*　</span>
                 <span>已然魔性的雪橇犬哈士奇 —《雪地狂奔》</span>
@@ -36,7 +36,7 @@
             <div class="pet_slider_shadow"></div>
       </li>
       <li>
-            <img src="img/fl03.png">
+            <img src="Public/love-life/img/fl03.png">
             <div class="pet_slider_font">
                 <span class="pet_slider_emoji"> (｡・`ω´･)　</span>
                 <span>《星际争霸2:虚空之遗》国服过审!</span>
@@ -137,7 +137,7 @@
         </div>
           <div class="am-u-sm-4 am-list-thumb">
             <a href="###" class="">
-              <img src="img/q1.jpg" class="pet_list_one_img" alt=""/>
+              <img src="Public/love-life/img/q1.jpg" class="pet_list_one_img" alt=""/>
             </a>
           </div>
       </li>
@@ -159,7 +159,7 @@
           <div class="am-u-sm-4 am-list-thumb pet_video_info">
             <div class="pet_video_info_tag"><i class="iconfont">&#xe62d;</i>03:50</div>
             <a href="###" class="">
-              <img src="img/q4.jpg" class="pet_list_one_img" alt="我很囧，你保重....晒晒旅行中的那些囧！"/>
+              <img src="Public/love-life/img/q4.jpg" class="pet_list_one_img" alt="我很囧，你保重....晒晒旅行中的那些囧！"/>
             </a>
           </div>
       </li>
@@ -180,7 +180,7 @@
         </div>
           <div class="am-u-sm-4 am-list-thumb">
             <a href="###" class="">
-              <img src="img/q5.jpg" class="pet_list_one_img" alt="我很囧，你保重....晒晒旅行中的那些囧！"/>
+              <img src="Public/love-life/img/q5.jpg" class="pet_list_one_img" alt="我很囧，你保重....晒晒旅行中的那些囧！"/>
             </a>
           </div>
       </li>
@@ -202,21 +202,21 @@
       <li>
         <div class="am-gallery-item">
             <a href="###" class="">
-              <img src="img/qq1.jpg"  alt="某天 也许会相遇 相遇在这个好地方"/>
+              <img src="Public/love-life/img/qq1.jpg"  alt="某天 也许会相遇 相遇在这个好地方"/>
             </a>
         </div>
       </li>
       <li>
         <div class="am-gallery-item">
             <a href="###" class="">
-              <img src="img/qq2.jpg"  alt="不要太担心 只因为我相信"/>
+              <img src="Public/love-life/img/qq2.jpg"  alt="不要太担心 只因为我相信"/>
             </a>
         </div>
       </li>
       <li>
         <div class="am-gallery-item">
             <a href="###" class="">
-              <img src="img/qq3.jpg"  alt="终会走过这条遥远的道路"/>
+              <img src="Public/love-life/img/qq3.jpg"  alt="终会走过这条遥远的道路"/>
             </a>
         </div>
       </li>
@@ -238,7 +238,7 @@
       <li>
         <div class="am-gallery-item">
             <a href="###" class="">
-              <img src="img/w1.jpg"  alt="某天 也许会相遇 相遇在这个好地方"/>
+              <img src="Public/love-life/img/w1.jpg"  alt="某天 也许会相遇 相遇在这个好地方"/>
             </a>
         </div>
       </li>
@@ -252,28 +252,28 @@
       <li>
         <div class="am-gallery-item">
             <a href="###" class="">
-              <img src="img/w3.jpg"  alt="终会走过这条遥远的道路"/>
+              <img src="Public/love-life/img/w3.jpg"  alt="终会走过这条遥远的道路"/>
             </a>
         </div>
       </li>
        <li>
         <div class="am-gallery-item">
             <a href="###" class="">
-              <img src="img/w4.jpg"  alt="终会走过这条遥远的道路"/>
+              <img src="Public/love-life/img/w4.jpg"  alt="终会走过这条遥远的道路"/>
             </a>
         </div>
       </li>
        <li>
         <div class="am-gallery-item">
             <a href="###" class="">
-              <img src="img/w5.jpg"  alt="终会走过这条遥远的道路"/>
+              <img src="Public/love-life/img/w5.jpg"  alt="终会走过这条遥远的道路"/>
             </a>
         </div>
       </li>
        <li>
         <div class="am-gallery-item">
             <a href="###" class="">
-              <img src="img/w6.jpg"  alt="终会走过这条遥远的道路"/>
+              <img src="Public/love-life/img/w6.jpg"  alt="终会走过这条遥远的道路"/>
             </a>
         </div>
       </li>
@@ -282,7 +282,7 @@
             <li class="am-g am-list-item-desced pet_list_one_block">
               <div class="pet_list_one_info">
             <div class="pet_list_one_info_l">
-                <div class="pet_list_one_info_ico"><img src="img/a4.png" alt=""></div>
+                <div class="pet_list_one_info_ico"><img src="Public/love-life/img/a4.png" alt=""></div>
                 <div class="pet_list_one_info_name">大兔</div>
             </div>
             <div class="pet_list_one_info_r">
@@ -300,7 +300,7 @@
       <li class="am-g am-list-item-desced pet_list_one_block">
               <div class="pet_list_one_info">
             <div class="pet_list_one_info_l">
-                <div class="pet_list_one_info_ico"><img src="img/a5.png" alt=""></div>
+                <div class="pet_list_one_info_ico"><img src="Public/love-life/img/a5.png" alt=""></div>
                 <div class="pet_list_one_info_name">Hope</div>
             </div>
             <div class="pet_list_one_info_r">
@@ -309,7 +309,7 @@
         </div>
         <div class=" am-list-main">
             <h3 class="am-list-item-hd pet_list_one_bt"><a href="###" class="">心情不好了，就来看看这只狗！</a></h3>
-            <div class="pet_list_zt_img"><img src="img/c1.png" alt=""></div>
+            <div class="pet_list_zt_img"><img src="Public/love-life/img/c1.png" alt=""></div>
 
             <div class="am-list-item-text pet_list_two_text">猫咪不像人，猫咪的情绪不会写在脸上，反馈给我们的信息更多的应该是行为上肢体上的，当然从叫声中也会反应一些信息，那么要想“抓住它的心，就一定要抓住它的胃吗？”从它的行为和肢体语言当中我们可以读懂什么呢？</div>
 
@@ -322,7 +322,7 @@
              <div class="pet_article_user_title">一周在任意地点工作三天？</div>
              <img src="img/c2.png" alt=""></div>
              <div class="pet_article_user_info">
-                <div class="pet_article_user_info_ico"><img src="img/c.png" alt=""></div>SeeYouAgain
+                <div class="pet_article_user_info_ico"><img src="Public/love-life/img/c.png" alt=""></div>SeeYouAgain
              </div>
              <div class="am-list-item-text pet_article_user_nr">这是一家帮助客户在亚太地区找到适合的打折酒店的中介机构，在全球设立了9个办事处，老板克里斯蒂安·米施勒宣称要把它打造成世界上最棒的公司。</div>
            </div>
@@ -348,8 +348,8 @@ Amaze UI 以移动优先（Mobile first）为理念，从小屏逐步扩展到�
 </div>
 </div>
 
-<script src="js/jquery.min.js"></script>
-<script src="js/amazeui.min.js"></script>
+<script src="/Public/assets/js/jquery.min.js"></script>
+<script src="/Public/assets/js/amazeui.min.js"></script>
 <script>
 $(function(){
 
