@@ -5,7 +5,7 @@ use Think\Controller;
 
 class VideoController extends Controller
 {
-    public function video()
+    public function getList()
     {
         echo $this->fetch();
     }
