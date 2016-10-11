@@ -5,4 +5,5 @@ return array(
         'passport/login' => 'Admin/login/index',
         'video' => 'Home/video/video'
     ],
+
 );

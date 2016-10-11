@@ -7,6 +7,7 @@ class VideoController extends Controller
 {
     public function getList()
     {
+        echo 111;exit;
         echo $this->fetch();
     }
 }
