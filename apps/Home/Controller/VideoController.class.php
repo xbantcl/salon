@@ -10,4 +10,10 @@ class VideoController extends Controller
         echo 111;exit;
         echo $this->fetch();
     }
+
+    public function video()
+    {
+        echo 111;exit;
+        $this->display('video');
+    }
 }

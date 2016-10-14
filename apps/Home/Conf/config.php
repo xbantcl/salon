@@ -6,6 +6,6 @@ return [
     ],
     'URL_ROUTER_ON' => true,
     'URL_ROUTE_RULES'=> [
-        'video' => 'Video/video'
+        'video' => 'Video/video',
     ],
 ];
